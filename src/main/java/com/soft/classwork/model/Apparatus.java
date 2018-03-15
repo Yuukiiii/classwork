@@ -1,4 +1,4 @@
-package com.soft.classwork.beans;
+package com.soft.classwork.model;
 
 
 public class Apparatus {

@@ -1,4 +1,4 @@
-package com.sample;
+package com.soft.classwork.model;
 
 
 public class User {
